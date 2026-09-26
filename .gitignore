@@ -1,0 +1,8 @@
+node_modules/
+.env
+auth_info/
+bot_data.json
+bot_data/
+contacts.json
+*.log
+.DS_Store
